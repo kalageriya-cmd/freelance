@@ -1,0 +1,6 @@
+{
+  "name": "Meridian — Executive Practice OS",
+  "description": "Financial command, client retainer tracking, billable time ledger, and precision invoicing for independent consultants and boutique agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
